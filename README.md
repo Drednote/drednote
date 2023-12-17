@@ -14,8 +14,8 @@ I`m Java Spring Developer from Russia 🇷🇺
   for Telegram bots within the Spring ecosystem. While it's still a work in progress, 
   I'm excited to keep improving it! 😬
 - 👉👈 I know Javascript, Typescript, React at the "I can make a simple website" level
-- 💻 ~~I've created a website that provides comprehensive information about me. 
-  You can check it out [here](https://drednote.github.io)~~ (It is still in progress)
+- 💻 I've created a website that provides comprehensive information about me. 
+  You can check it out [here](https://drednote.github.io)
 - 💬 Feel free to reach out to me through the contact details available in the biography section. 
   I'd love to connect and chat!
 
