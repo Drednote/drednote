@@ -8,13 +8,13 @@ I`m Java Spring Developer from Russia 🇷🇺
 
 ### About me
 
-- ❤️ I love Java and Spring. I find joy in experimenting with Spring, delving into its inner workings, and creating my own projects
+- ❤️ I love **Java** and **Spring**. I find joy in experimenting with Spring, delving into its inner workings, and creating my own projects
 - 🧐 I embrace challenges and enjoy finding innovative solutions to problems that come my way
 - 🤖 I've been developing my own library called [spring-boot-starter-telegram](https://github.com/Drednote/spring-boot-starter-telegram) 
-  for Telegram bots within the Spring ecosystem. I'm excited to keep improving it! 😬
-- 💻 I've created a website that provides comprehensive information about me. 
+  for **Telegram bots** within the Spring ecosystem. I'm excited to keep improving it! 😬
+- 💻 I've created a **website** that provides comprehensive information about me. 
   You can check it out [here](https://drednote.github.io)
-- 💬 Feel free to reach out to me through the contact details available in the biography section. 
+- 💬 Feel free to reach out to me through the contact details available in the biography section or on my [website](https://drednote.github.io). 
   I'd love to connect and chat!
 
 ### Language and tools:
